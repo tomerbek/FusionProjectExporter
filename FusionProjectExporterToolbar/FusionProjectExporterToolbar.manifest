@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "id": "2c4f20b7-8f1c-4af4-87d0-460c0e8b7184",
+  "author": "tomerbek",
+  "description": {"": "Adds a toolbar button for exporting Fusion projects."},
+  "version": "0.1.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac"
+}
