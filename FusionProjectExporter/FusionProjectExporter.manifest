@@ -1,0 +1,9 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "id": "2e76bd56-802a-43e5-8f3c-6cfc52a32004",
+  "author": "tomerbek",
+  "description": {"": "Export Fusion cloud project files to a local folder."},
+  "version": "0.1.0",
+  "supportedOS": "windows|mac"
+}
